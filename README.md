@@ -1,7 +1,7 @@
 # ProyectoCATIE
 Repositorio de documentos, reportes, códigos y archivos digitales de fabricación para el Proyecto FunCR-CATIE
 
-##Directorios
+## Directorios
 
 Los directorios en este repositorio contienen todos los archivos del proyecto, desde infromes hasta códigos y diseños para fabricación.
 
